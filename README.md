@@ -104,13 +104,15 @@ Publish the website in the given URL.
 
 ## Server output:
 
+![Screenshot 2023-05-17 160832](https://github.com/sakthivel005/standard-calculator/assets/120550359/c32c0342-a0f4-47d9-acef-cfa48f5e3115)
 
 
-\
+
 
 
 ## Client output:
 
+![Screenshot 2023-05-17 210834](https://github.com/sakthivel005/standard-calculator/assets/120550359/939d7bec-ebea-429d-bf67-9d80eef10b7f)
 
 
 
